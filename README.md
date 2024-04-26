@@ -1,2 +1,2 @@
 # ObjectDetection
-ICME-2022安全AI挑战者计划第九期Top13的比赛方案，同时大部分方案也复用到了2022第十届“泰迪杯”数据挖掘挑战赛赛道一害虫检测中，并获得Top1。
+The top 13 competition plans in the ninth phase of the ICME-2022 Security AI Challenger Program. At the same time, most of the methods were also reused in the pest detection track of the 10th "Teddy Cup" Data Mining Challenge in 2022, and won the Top 1.
